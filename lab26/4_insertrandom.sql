@@ -1,0 +1,1 @@
+insert into lab_partition.fn select x::float / (1000 + 1) * 10.0 from generate_series(1, 1000) as x;

@@ -1,0 +1,1 @@
+create server file_server foreign data wrapper postgres_fdw;

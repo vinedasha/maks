@@ -1,0 +1,1 @@
+create unique index data_idx on noaa_sample.data (station_id,datetime);

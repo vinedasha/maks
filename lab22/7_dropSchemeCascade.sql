@@ -1,0 +1,1 @@
+drop schema schema2 cascade;
